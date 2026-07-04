@@ -1,0 +1,900 @@
+{
+  "categories": [
+    { "id": "all", "ps": "ټول مباحث", "en": "All Topics" },
+    { "id": "intro", "ps": "پېژندنه او تاریخ", "en": "Introduction & History" },
+    { "id": "types", "ps": "ډولونه او نظریات", "en": "Types & Ideologies" },
+    { "id": "symbols", "ps": "نښې او نښانونه", "en": "Symbols & Signs" },
+    { "id": "impact", "ps": "اغېزې او خطرونه", "en": "Impacts & Risks" },
+    { "id": "protection", "ps": "اسلام او مبارزه", "en": "Islam & Action" }
+  ],
+  "quotes": [
+    {
+      "textAr": "إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ",
+      "textPs": "بېشکه شیطان ستاسو دښمن دی، نو تاسو یې هم دښمن وګڼئ؛ هغه خپلو پیروانو او ډلې ته یوازې ددې لپاره بلنه ورکوي چې د دوزخ د بلېدونکي اور د ملګرو څخه شي.",
+      "textEn": "Indeed, Satan is an enemy to you; so take him as an enemy. He only invites his party to be among the companions of the Blaze.",
+      "source": "سورة فاطر: ۶"
+    },
+    {
+      "textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ وَمَن يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ بِالْفَحْشَاءِ وَالْمُنكَرِ",
+      "textPs": "اې هغو کسانو چې ایمان مو راوړی دی! د شیطان پر پلونو مه ځئ؛ او هر څوک چې د شیطان پر ګامونو لاړ شي، نو بېشکه هغه (شیطان) د بې حیايۍ، بدکارۍ او ناوړه چارو امر کوي.",
+      "textEn": "O you who have believed, do not follow the footsteps of Satan. And whoever follows the footsteps of Satan - indeed, he enjoins immorality and wrongdoing.",
+      "source": "سورة النور: ۲۱"
+    },
+    {
+      "textAr": "قَالَ فَبِمَا أَغْوَيْتَنِي لَأَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَقِيمَ ثُمَّ لَآتِيَنَّهُم مِّن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَانِهِمْ وَعَن شَمَائِلِهِمْ ۖ وَلَا تَجِدُ أَكْثَرَهُمْ شَاكِرِينَ",
+      "textPs": "ابیلیس (شیطان) وویل: له دې امله چې تا زه ګمراه کړم، زه به خامخا د هغوی (انسانانو) لپاره ستا پر سیده لاره کښېنم. بیا به خامخا د هغوی مخې ته، شا ته، ښي لوري ته او چپ لوري ته ورشم او ته به د هغوی اکثره شکر کوونکي ونه مومې.",
+      "textEn": "[Satan] said, 'Because You have decayed me, I will surely sit in wait for them on Your straight path. Then I will come to them from before them and from behind them and on their right and on their left, and You will not find most of them grateful.'",
+      "source": "سورة الأعراف: ۱۶-۱۷"
+    }
+  ],
+  "articles": [
+    {
+      "id": "satanism-intro-1",
+      "titlePs": "۱. د شیطان پرستۍ پیژندنه او لغوي او اصطلاحي معناوې",
+      "titleEn": "1. Definition and Etymology of Satanism",
+      "categoryPs": "پېژندنه او تاریخ",
+      "categoryEn": "Introduction & History",
+      "summaryPs": "دا لومړی فصل د شیطان پرستۍ پر لومړنیو پېژندنو، اصطلاحي معناوو او د هغې پر عمومي بڼو بحث کوي ترڅو د موضوع حقیقت روښانه شي.",
+      "summaryEn": "This first chapter discusses the basic definitions, terminologies, and general forms of Satanism to clarify its reality.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "si1-1",
+          "type": "heading",
+          "textPs": "سریزه: د انحراف او فکري جګړې نوی پړاو",
+          "textEn": "Introduction: A New Phase of Deviation and Intellectual War"
+        },
+        {
+          "id": "si1-2",
+          "type": "standard",
+          "textPs": "په اوسني پرمختللي عصر کې چې مادي غوښتنې او رسنۍ د انسانانو پر ذهنونو خورا زیات واک لري، د فکري او عقیدتي کږېدنو کچه هم په بې ساري ډول لوړه شوې ده. د دې عقیدتي انحرافاتو په سر کې د 'شیطان پرستۍ' (Satanism) جریانات ځای لري. دا پدیده یوازې یو ساده مذهبي انحراف نه دی، بلکې یو سیستماتیک فکري جریان دی چې غواړي د بشریت اخلاقي، مذهبي او انساني بنسټونه له منځه یوسي او د الهي بندګۍ پر ځای د نفس او ابلیس غوښتنې حاکمې کړي.",
+          "textEn": "In the modern advanced era where material desires and media exert immense control over human minds, ideological and spiritual deviations have reached unprecedented heights. At the forefront of these ideological deviations lies 'Satanism'."
+        },
+        {
+          "id": "si1-3",
+          "type": "quran",
+          "textAr": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُّسْتَقِيمٌ",
+          "textPs": "ایا ما له تاسو (د آدم له اولاده) سره ژمنه نه وه کړې چې د شیطان بندګي به نه کوئ؛ ځکه چې هغه ستاسو ښکاره دښمن دی؟ او دا چې یوازې زما عبادت وکړئ، دا سمه او سیده لاره ده.",
+          "reference": "سورة يس: ۶۰-۶۱"
+        }
+      ]
+    },
+    {
+      "id": "satanism-reality-2",
+      "titlePs": "۲. د ابلیس حقیقت او د وحې د لیدلوري ځانګړتیاوې",
+      "titleEn": "2. The Reality of Iblis and Quranic Perspective",
+      "categoryPs": "پېژندنه او تاریخ",
+      "categoryEn": "Introduction & History",
+      "summaryPs": "دا برخه د ابلیس د ماهیت، خلقت او د انسان په نښه کولو په اړه د وحې د رڼا حقایق سپړي.",
+      "summaryEn": "This section explores the nature of Iblis, his creation, and the Quranic perspective of his enmity.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sr2-1",
+          "type": "heading",
+          "textPs": "د ابلیس خلقت او له جنه کېدل",
+          "textEn": "Creation of Iblis and His Origin"
+        },
+        {
+          "id": "sr2-2",
+          "type": "standard",
+          "textPs": "اسلامي عقیده موږ ته ښيي چې ابلیس د انسانانو د غولولو لپاره له اوره پیدا شوی دی. هغه له ملائکو نه و، بلکې د پېریانو له نسل څخه و، مګر د خپل زیات عبادت له امله د ملائکو په کتار کې اوسېده. کله چې الله تعالی حضرت آدم علیه السلام پیدا کړ او ټولو ته یې د سجدې امر وکړ، ابلیس د کبر او غرور په سبب له امر څخه سرغړونه وکړه.",
+          "textEn": "Islamic creed teaches us that Iblis was created from smokeless fire. He was not of the angels but from the Jinn, elevated among them due to his extensive worship."
+        },
+        {
+          "id": "sr2-3",
+          "type": "quran",
+          "textAr": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ",
+          "textPs": "او کله چې موږ پرښتو ته وویل چې آدم ته سجده وکړئ، نو هغوی سجده وکړه پرته له ابلیس څخه؛ هغه د پېریانو له ډلې و، نو د خپل رب له امر څخه یې سرغړونه وکړه.",
+          "reference": "سورة الکهف: ۵۰"
+        }
+      ]
+    },
+    {
+      "id": "satanism-ancient-3",
+      "titlePs": "۳. په پخوانیو زمانو کې د شیطان د نمانځنې پټې ریښې",
+      "titleEn": "3. Ancient Roots of Satan Worship",
+      "categoryPs": "پېژندنه او تاریخ",
+      "categoryEn": "Introduction & History",
+      "summaryPs": "دا برخه په لرغوني تاریخ، بابل، مصر او نورو زړو ټولنو کې د شر د ځواکونو او ابلیس ډوله معبودانو تاریخ څیړي.",
+      "summaryEn": "This section examines the historical context of evil worship and dark deities in ancient civilizations like Babylon and Egypt.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "sa3-1",
+          "type": "heading",
+          "textPs": "بابل، سحر او د بې دینۍ پیل",
+          "textEn": "Babylon, Magic, and the Seeds of Deviancy"
+        },
+        {
+          "id": "sa3-2",
+          "type": "standard",
+          "textPs": "د تاریخ په اوږدو کې له شیطان سره د انسانانو ارتباط بېلابېل شکلونه نیولي دي. په لرغوني بابل کې خلکو د کاهنانو په ذریعه د پټو ارواوو او شریرو ځواکونو مذهبي نمانځنه کوله. دوی جادو ته مذهبي سپیڅلتیا ورکړې وه او د خدای پر ځای یې د ستورو او شیطاني الهامونو عبادت پیل کړی و ترڅو مادي او دنیوي قوت لاسته راوړي.",
+          "textEn": "Throughout history, human interaction with satanic forces has taken various shapes. In ancient Babylon, people sought the invocation of evil entities through sorcery."
+        },
+        {
+          "id": "sa3-3",
+          "type": "quran",
+          "textAr": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ",
+          "textPs": "او هغوی د هغو شیانو پیروي وکړه چې شیاطینو به د سلیمان د پاچاهۍ په وخت کې لوستل؛ او سلیمان کفر نه و کړی، مګر شیاطینو کفر کړی و چې خلکو ته یې جادو ښودله.",
+          "reference": "سورة البقرة: ۱۰۲"
+        }
+      ]
+    },
+    {
+      "id": "satanism-medieval-4",
+      "titlePs": "۴. د منځنیو پیړیو په اروپا کې جادوګري او له ابلیس سره د تړون اوازې",
+      "titleEn": "4. Medieval Witchcraft and Compacts with the Devil",
+      "categoryPs": "پېژندنه او تاریخ",
+      "categoryEn": "Introduction & History",
+      "summaryPs": "په دې څپرکي کې په تیاره منځنیو پیړیو کې د لویدیځ جادوګري، د هغې کلتوري عوامل او له مذهب څخه بغاوت څېړل کېږي.",
+      "summaryEn": "This chapter investigates medieval European witchcraft, its cultural aspects, and rebellion against established church authority.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sm4-1",
+          "type": "heading",
+          "textPs": "د کلیسا توندلاري او د شیطان په لور تېښته",
+          "textEn": "Church Tyranny and Flight Towards Darkness"
+        },
+        {
+          "id": "sm4-2",
+          "type": "standard",
+          "textPs": "په تیاره منځنیو پیړیو کې کله چې په اروپا کې د کاتولیکې کلیسا استبداد عوج ته ورسېد، ډېری کسان چې غوښتل یې د کلیسا له بندیزونو وژغورل شي، پټو علومو، جادوګرۍ او شیطاني غونډو ته یې مخه کړه. دا دور د عقیدې د انحراف او شیطاني عقایدو د بې نظمه ودې دور و، چې پکې خلکو په داسې رسومو تکیه کوله ترڅو کلیسا او خدای ته سپکاوی وکړي.",
+          "textEn": "During the dark ages, the tyranny of the Catholic church drove many marginalized individuals to seek refuge in occult practices, sorcery, and secret covens."
+        }
+      ]
+    },
+    {
+      "id": "satanism-lavey-5",
+      "titlePs": "۵. انتون لاوی او د شیطان د رسمي کلیسا بنسټ (۱۹۶۶)",
+      "titleEn": "5. Anton LaVey and the Official Church of Satan",
+      "categoryPs": "پېژندنه او تاریخ",
+      "categoryEn": "Introduction & History",
+      "summaryPs": "دا برخه د معاصرې شیطان پرستۍ د رسمي پلار انتون لاوي او په سان فرانسسکو کې د هغې د سازماني بڼې تاسیس بررسي کوي.",
+      "summaryEn": "This section examines Anton LaVey, the official founder of modern Satanism, and the establishment of his organization in San Francisco.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "sl5-1",
+          "type": "heading",
+          "textPs": "۱۹۶۶ میلادي کال: د انحراف رسمي پړاو",
+          "textEn": "1966: The Formalization of Satanic Movement"
+        },
+        {
+          "id": "sl5-2",
+          "type": "standard",
+          "textPs": "معاصره او تنظیم شوې شیطان پرستي د ۱۹۶۶ میلادي کال د اپریل پر ۳۰مه نیټه پیل شوه. پدې ورځ یو امریکايي تبعه چې 'انتون شینډور لاوی' (Anton Szandor LaVey) نومیده، د کالیفورنیا په سان فرانسسکو ښار کې د لومړي ځل لپاره د 'شیطان د کلیسا' (Church of Satan) بنسټ کیښود. هغه دغه کال د 'لومړي شیطاني کال' (Anno Satanas) په نوم یاد کړ او ځان یې د دې کلیسا مشر مذهبي کاهن اعلان کړ.",
+          "textEn": "Modern and organized Satanism formally began on April 30, 1966. On this day, an American citizen named Anton Szandor LaVey established the 'Church of Satan' in San Francisco."
+        }
+      ]
+    },
+    {
+      "id": "satanism-bible-6",
+      "titlePs": "۶. د شیطاني انجیل څېړنه او کفرجن نظریات",
+      "titleEn": "6. A Review of the Satanic Bible",
+      "categoryPs": "پېژندنه او تاریخ",
+      "categoryEn": "Introduction & History",
+      "summaryPs": "د دغه فصل هدف په ۱۹۶۹ کال کې د لاوي لخوا د لیکل شوي کتاب شیطاني انجیل فکري ارزونه او ردول دي.",
+      "summaryEn": "This chapter aims to critique and analyze 'The Satanic Bible', written by Anton LaVey in 1969, uncovering its core logical fallacies.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sb6-1",
+          "type": "heading",
+          "textPs": "شیطاني انجیل: د کبر او الحاد فکري دستګاه",
+          "textEn": "The Satanic Bible: A Manual for Pride and Self-Worship"
+        },
+        {
+          "id": "sb6-2",
+          "type": "standard",
+          "textPs": "انتون لاوي د خپل فکر د تنظیم او ترویج لپاره په ۱۹۶۹ کال کې 'The Satanic Bible' ولیکه. دا کتاب له څلورو برخو جوړ دی او پکې مذهبي ارزښتونه، همدردي او اخلاق په کلکه غندل شوي دي. د دې کتاب اساسي نظر دا دی چې غچ اخیستل تر بخښنې غوره دي، او د نفس د شهوتونو او خواهشاتو پوره کول د ژوند لومړنی هدف دی.",
+          "textEn": "Anton LaVey authored 'The Satanic Bible' in 1969. The book is heavily structured to criticize monotheistic morals, self-sacrifice, and mutual compassion."
+        }
+      ]
+    },
+    {
+      "id": "satanism-philosophical-7",
+      "titlePs": "۷. د معاصرې فلسفي (اتېستیک) شیطان پرستۍ عقاید او اصول",
+      "titleEn": "7. Doctrines of Philosophical Satanism",
+      "categoryPs": "ډولونه او نظریات",
+      "categoryEn": "Types & Ideologies",
+      "summaryPs": "دا برخه د لاوي تر اغېز لاندې د بې دینه او مادي شیطان پرستۍ د اصولو په اړه بشپړ معلومات وړاندې کوي.",
+      "summaryEn": "This section explains the details and concepts of Atheistic Satanism, where Satan is treated only as a metaphor.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sp7-1",
+          "type": "heading",
+          "textPs": "شیطان د مادي سمبول په توګه",
+          "textEn": "Satan as a Metaphor and Symbol of Ego"
+        },
+        {
+          "id": "sp7-2",
+          "type": "standard",
+          "textPs": "په فلسفي یا لاويي مذهب کې خلک په ماوراء الطبیعه موجوداتو (حتي پخپله شیطان باندې هم) د یوه حقیقي موجود په توګه باور نلري. دوی په حقیقت کې سخت اتېستان دي. د دوی لپاره 'شیطان' یوازې یو سمبول دی چې د کبر، مادي پرمختګ، لذت غوښتنې او له ټولو ټولنیزو او الهي قوانینو څخه د مطلقې سرغړونې استازیتوب کوي.",
+          "textEn": "In philosophical Satanism, adherents do not believe in supernatural entities. They are atheists who use Satan as a symbol for human pride and indulgence."
+        }
+      ]
+    },
+    {
+      "id": "satanism-theistic-8",
+      "titlePs": "۸. دیني او دودیزه شیطان پرستي او د هغې وحشتونه",
+      "titleEn": "8. Theistic Satanism and Occult Rituals",
+      "categoryPs": "ډولونه او نظریات",
+      "categoryEn": "Types & Ideologies",
+      "summaryPs": "په دې برخه کې د شیطان رښتینی پرستش (تیستیک شیطانیزم) او پټ وحشي رسوم بررسي کېږي.",
+      "summaryEn": "This section investigates theistic Satanism, where adherents literally worship Satan as a supernatural deity.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "st8-1",
+          "type": "heading",
+          "textPs": "دیني شیطان پرستي: د تیارو مطلق واکمني",
+          "textEn": "Theistic Satanism: The Literal Worship of Darkness"
+        },
+        {
+          "id": "st8-2",
+          "type": "standard",
+          "textPs": "د فلسفي اړخ پر خلاف، دیني یا روايتي شیطان پرستان په حقیقت کې د شیطان په وجود باور لري او هغه ته د یوه داسې معبود په توګه ګوري چې د انسانانو مادي او علمي غوښتنې پوره کوي. دوی په پټو ځایونو کې د شیطان د خوشاله کولو لپاره د وینې څښل، د مړو بې حرمتي او بېلابېل خطرناک شیطاني مراسم ترسره کوي چې په ځینو مواردو کې پکې د انسانانو یا حیوانانو پټ قرباني کول هم شامل دي.",
+          "textEn": "In contrast to the atheistic branch, theistic Satanists believe in the literal existence of Satan and view him as a supernatural deity who demands blood rituals."
+        }
+      ]
+    },
+    {
+      "id": "satanism-set-9",
+      "titlePs": "۹. د سیټ معبد د فلسفې او بنسټ بررسي",
+      "titleEn": "9. Analysis of the Temple of Set",
+      "categoryPs": "ډولونه او نظریات",
+      "categoryEn": "Types & Ideologies",
+      "summaryPs": "دا برخه د 'مایکل ایکینو' لخوا د سیټ معبد د جوړښت او له لاوي مذهب سره د هغې د جنجالونو حقیقت په پښتو وړاندې کوي.",
+      "summaryEn": "This section presents the history of the Temple of Set, founded by Michael Aquino, and its ideological differences with LaVey.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "ss9-1",
+          "type": "heading",
+          "textPs": "د سیټ معبد: په مصر کې د تیارو خدای نمانځنه",
+          "textEn": "Temple of Set: Resurrecting Ancient Egyptian Deities"
+        },
+        {
+          "id": "ss9-2",
+          "type": "standard",
+          "textPs": "په ۱۹۷۵ کال کې د مایکل اکینو لخوا 'د سیټ معبد' (Temple of Set) رامنځته شو. دوی باور لري چې د سیټ په نوم د مصر د زړو افسانو د تیارو خدای په حقیقت کې هماغه د کائناتو رښتینی شیطان دی. دوی په خپلو رسومو کې مابعدالطبیعي عقائدو ته لاره پرانیستله او د عقل د لوړتیا په بهانه د کفر پخواني نظریات بیا ژوندي کړل.",
+          "textEn": "Founded in 1975 by Michael Aquino, the Temple of Set claims that 'Set', the ancient Egyptian deity of darkness, is the real archetype of Satan."
+        }
+      ]
+    },
+    {
+      "id": "satanism-luciferianism-10",
+      "titlePs": "۱۰. لوسیفرینیزم او د شیطان پرستۍ ترمنځ توپیر",
+      "titleEn": "10. Luciferianism and its Distinctions",
+      "categoryPs": "ډولونه او نظریات",
+      "categoryEn": "Types & Ideologies",
+      "summaryPs": "دا برخه د لوسیفرینیزم او د دودیزې شیطان پرستۍ ترمینځ د پام وړ فلسفي توپیرونه روښانه کوي.",
+      "summaryEn": "This section explains the philosophy of Luciferianism, where Lucifer is treated as a bearer of light and intellect.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sl10-1",
+          "type": "heading",
+          "textPs": "لوسیفر د روښانتیا او پوهې د سمبول په توګه",
+          "textEn": "Lucifer: The Bearer of False Intellectual Enlightenment"
+        },
+        {
+          "id": "sl10-2",
+          "type": "standard",
+          "textPs": "لوسیفرینیزم د تیارو ترڅنګ لوسیفر د پوهې، عقل او روښانتیا په توګه نمانځي. دوی غواړي دا وښيي چې لوسیفر د انساني عقل ملاتړی و او له همدې امله په حقه دی. دا جریان غواړي چې شیطان ته یوه روښانه، علمي او انساني څېره ورکړي ترڅو ځوانان او مینه وال په کلتوري کچه په اسانۍ جذب کړي.",
+          "textEn": "Luciferianism positions Lucifer not as a dark lord, but as a bright figure of intellect and science, seeking to make deviancy attractive to intellectuals."
+        }
+      ]
+    },
+    {
+      "id": "satanism-temple-11",
+      "titlePs": "۱۱. په نړۍ کې د 'شیطان معبد' سیاسي او کلتوري جنجالونه",
+      "titleEn": "11. Controversies of The Satanic Temple",
+      "categoryPs": "ډولونه او نظریات",
+      "categoryEn": "Types & Ideologies",
+      "summaryPs": "په دې برخه کې د 'The Satanic Temple' (TST) په نوم د یوه نوي امریکايي سازمان او په قوانینو کې د هغوی د مداخلو پر حقیقت خبرې کېږي.",
+      "summaryEn": "This section focuses on 'The Satanic Temple' (TST), its political campaigns, and efforts to introduce satanic statues into public spaces.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "st11-1",
+          "type": "heading",
+          "textPs": "د قوانینو تر شا پټه شیطاني مداخله",
+          "textEn": "TST: Exploiting the Law to Push Satanic Influence"
+        },
+        {
+          "id": "st11-2",
+          "type": "standard",
+          "textPs": "د شیطان معبد (The Satanic Temple) یو بل سازمان دی چې په لویدیځ کې د مذهبي ازادۍ تر نوم لاندې په دولتي دفترونو، ښوونځیو او عامه ځایونو کې د بافومیټ د مجسمو اېښودلو لپاره قانوني دعوې کوي. دوی له دیموکراسۍ او مذهبي ازادۍ څخه د خپلو شیطاني افکارو د رسمي کولو لپاره د ډال په توګه کار اخلي.",
+          "textEn": "The Satanic Temple utilizes legal avenues and the concept of religious pluralism to demand the integration of satanic imagery and statues in public schools."
+        }
+      ]
+    },
+    {
+      "id": "satanism-baphomet-12",
+      "titlePs": "۱۲. د بافومیټ نښان تاریخ، مفهوم او رازونه",
+      "titleEn": "12. History and Secrets of the Baphomet Symbol",
+      "categoryPs": "نښې او نښانونه",
+      "categoryEn": "Symbols & Signs",
+      "summaryPs": "دا برخه د بافومیټ (Baphomet) سمبول تاریخ، د هغې وز وز ډوله موجود او په شیطاني فکر کې د هغې اساسي رول روښانه کوي.",
+      "summaryEn": "This section uncovers the historical background of Baphomet, the goat-headed deity, and its adaptation as the main seal of Satanism.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sb12-1",
+          "type": "heading",
+          "textPs": "بافومیټ: د دوه ګوندي پټ کلتور نښه",
+          "textEn": "Baphomet: The Dualistic Occult Totem"
+        },
+        {
+          "id": "sb12-2",
+          "type": "standard",
+          "textPs": "بافومیټ یو وز لرونکی او د وز سر لرونکی موجود دی چې د لومړي ځل لپاره د تمپلار عسکرو په تاریخي قضیو کې او وروسته د فرانسوي جادوګر 'ایلیفاس لیوي' په لیکنو کې رسم شو. د شیطان د کلیسا لخوا دا لوګو د بافومېټ د مهر (Sigil of Baphomet) په توګه رسمي شوه، چې د انسان د مادي او حیواني هویت نښه ګڼل کیږي.",
+          "textEn": "The goat-headed figure of Baphomet was historically associated with accusations against Knights Templar, later codified by French occultist Eliphas Levi."
+        }
+      ]
+    },
+    {
+      "id": "satanism-pentagram-13",
+      "titlePs": "۱۳. چپه پینټاګرام او د هغې عقیدتي انځورونه",
+      "titleEn": "13. The Inverted Pentagram and its Meaning",
+      "categoryPs": "نښې او نښانونه",
+      "categoryEn": "Symbols & Signs",
+      "summaryPs": "دا څپرکی په دې بحث کوي چې چپه پنځه ضلعي ستوری څنګه په زړو علومو کې معکوس شو او د کفر رسمي سمبول وګرځېد.",
+      "summaryEn": "This chapter discusses how the five-pointed star was inverted to represent the triumph of matter over spirit.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sp13-1",
+          "type": "heading",
+          "textPs": "د معنویت پر وړاندې مادي عصیان",
+          "textEn": "Inversion: Material Triumph over the Divine"
+        },
+        {
+          "id": "sp13-2",
+          "type": "standard",
+          "textPs": "پینټاګرام یو پنځه ضلعي ستوری دی چې کله د هغې سر د پاسه وي، د معنویت او همغږۍ نښه ده؛ مګر کله چې چپه شي (یعنې دوه ښکر ډوله څوکې یې پورته او یوه لاندې وي)، دا د شیطان پرستۍ ترټولو بنسټیزه نښه ګرځي. چپه ستوری په دې معنی دی چې مادي او حیواني غوښتنې پر معنوي ارزښتونو برلاسې دي.",
+          "textEn": "The pentagram is traditionally a spiritual symbol when pointed up. Once inverted, it is adopted by Satanists to represent animalistic desires ruling over soul."
+        }
+      ]
+    },
+    {
+      "id": "satanism-number666-14",
+      "titlePs": "۱۴. د ۶۶۶ عدد اصلي ریښه او په شیطاني فکر کې د هغې کارول",
+      "titleEn": "14. Origin of the Number 666 in Occultism",
+      "categoryPs": "نښې او نښانونه",
+      "categoryEn": "Symbols & Signs",
+      "summaryPs": "دا د ۶۶۶ عدد تاریخ، په وحې کې د وحش او شیطان په حیث د هغې معنا او د هغې په اړه غلط تصورات څیړي.",
+      "summaryEn": "This section examines the historical context of the number 666, mentioned in religious scriptures as the Number of the Beast.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sn14-1",
+          "type": "heading",
+          "textPs": "۶۶۶: د کفر او عصیان ریاضیاتي نښه",
+          "textEn": "666: The Occult Interpretation of the Beast"
+        },
+        {
+          "id": "sn14-2",
+          "type": "standard",
+          "textPs": "د ۶۶۶ عدد په مسیحي او لویدیځ انجیلي روایت کې د 'بزرګ وحش' یا د عیسی علیه السلام د کاذب غلیظ (دجال) د پیژندنې سمبول بلل شوی دی. شیطان پرستان په مادي او کلتوري ډګرونو کې له دې امله کار اخلي ترڅو د الهي نظام او مذهبي قواعدو په وړاندې خپله مبارزه او بغاوت څرګند کړي.",
+          "textEn": "In Western theology, 666 is referred to as the number of the Beast. Modern Satanic cultures use this number to display their affiliation with the counter-religious forces."
+        }
+      ]
+    },
+    {
+      "id": "satanism-hornsign-15",
+      "titlePs": "۱۵. د جادوګرۍ ښکر او په مشهور کلتور کې د هغې نفوذ",
+      "titleEn": "15. The Horned Sign and Pop Culture",
+      "categoryPs": "نښې او نښانونه",
+      "categoryEn": "Symbols & Signs",
+      "summaryPs": "په فیشن، روحي غونډو او موسیقۍ کې د لاس په ګوتو د شیطان د ښکرونو (El Diablo) د نښې جوړولو بررسي.",
+      "summaryEn": "This section details the origin and use of the hand sign representing horned devil, widely seen in rock and heavy metal cultures.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sh15-1",
+          "type": "heading",
+          "textPs": "ال ډیابلو د لاس نښان په سټیج باندې",
+          "textEn": "The El Diablo Hand Gesture"
+        },
+        {
+          "id": "sh15-2",
+          "type": "standard",
+          "textPs": "د ال ډیابلو د لاس نښان چې پکې د منځنۍ ګوتې او خټې ګوتې کښته کیږي او د شهادت او کوچنۍ ګوتې پورته کیږي، په غربي او نړيوالې موسیقۍ کې د شیطان د ښکرونو نښه ده. دا سمبول چې د ځوانانو ترمنځ په بې خبرۍ کې کارول کیږي، د تیارو ملاتړ او د بې عقيدګۍ پیژندنه رامنځته کوي.",
+          "textEn": "The horned hand sign, often called 'Sign of the Horns', has ancient pagan roots. It was popularized in rock music to symbolize rebellion and dark forces."
+        }
+      ]
+    },
+    {
+      "id": "satanism-crowley-16",
+      "titlePs": "۱۶. الیاس کرولي او د عصري ماتی یا تاریکۍ علومو باندې د هغه اغېزې",
+      "titleEn": "16. Aleister Crowley and Modern Occultism",
+      "categoryPs": "نښې او نښانونه",
+      "categoryEn": "Symbols & Signs",
+      "summaryPs": "دا برخه د شلمې پیړۍ د مشهور جادوګر 'الیسټر کرولي' او د هغه د کفرجن قانون 'Do what thou wilt' په اړه هر اړخیز معلومات وړاندې کوي.",
+      "summaryEn": "This section provides details about Aleister Crowley, his self-proclaimed title 'Beast 666', and his law of Thelema.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "sc16-1",
+          "type": "heading",
+          "textPs": "الیسټر کرولي: د معاصر تور سحر پلار",
+          "textEn": "Aleister Crowley: The Wickedest Man in the World"
+        },
+        {
+          "id": "sc16-2",
+          "type": "standard",
+          "textPs": "الیسټر کرولي یو انګلیسي لیکوال او تور جادوګر و چې ځان ته یې د 'وحش ۶۶۶' نوم ورکړی و. د هغه تر ټولو مشهور کتاب 'The Book of the Law' دی او قانون یې داسې دی: 'څه چې غواړې هغه وکړه؛ دا ټول قانون دی.' د غه نظریې انتون لاوي او د شیطان نورې معاصرې ډلې په کلکه وهڅولې چې د شهوت او خودخواهۍ اصول رسمي کړي.",
+          "textEn": "Aleister Crowley formulated the mystical philosophy of Thelema, expressing the belief that humans should indulge in their wildest physical desires."
+        }
+      ]
+    },
+    {
+      "id": "satanism-sacrifice-17",
+      "titlePs": "۱۷. د شیطاني قربانیو اوازې او جنایي حقیقتونه",
+      "titleEn": "17. Criminal Realities of Satanic Sacrifices",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "دا برخه د تیستیک یا دیني شیطان پرستانو ترمنځ د خونړیو مراسمو او د قانون منګولو ته د لویدلو جنایتکارانو قضیې بررسي کوي.",
+      "summaryEn": "This section investigates documented cases of crime, animal cruelty, and self-harm associated with absolute devotion to Satanism.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "ss17-1",
+          "type": "heading",
+          "textPs": "د وینې بهول او د پټو محافلو تور تاریخ",
+          "textEn": "The Dark Reality of Clandestine Satanic Ritual Abuse"
+        },
+        {
+          "id": "ss17-2",
+          "type": "standard",
+          "textPs": "د تاریخ په اوږدو کې داسې ډیرې قضیې په لویدیځ او اروپا کې ثبت شوي چې پکې ځینې متعصب شیطان پرستان د ابلیس د راضي کولو لپاره ماشومان غلا کړي، د معبدونو په پټو دیوالونو کې یې قرباني کړي او یا یې د مړو قبرونه لوټ کړي دي. دا ښيي چې دا تفکر یوازې یو فلسفي ساعت تېری نه دی بلکې وحشت او جنایات زېږوي.",
+          "textEn": "Behind the philosophical shield, numerous true-crime cases exist involving the desecration of graves and rituals involving blood and animal sacrifices."
+        }
+      ]
+    },
+    {
+      "id": "satanism-music-18",
+      "titlePs": "۱۸. د راک او هیوي مټال موسیقۍ له لارې د شیطاني افکارو خپراوی",
+      "titleEn": "18. Heavy Metal Music and Satanic Propagation",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "دا څپرکی پدې حقیقت رڼا اچوي چې څنګه ځینې میوزیک بېنډونه د راک او بلیک مټال په بڼه د ځوانانو په ذهنونو د کفر نفوذ زیاتوي.",
+      "summaryEn": "This chapter illuminates how destructive music genres like death metal and heavy rock are used to introduce blasphemous themes to teenagers.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sm18-1",
+          "type": "heading",
+          "textPs": "د غږونو تاوتریخوالی د کفر په چوپړ کې",
+          "textEn": "Acoustic Violence in the Service of Blasphemy"
+        },
+        {
+          "id": "sm18-2",
+          "type": "standard",
+          "textPs": "موسیقي یو تر ټولو غښتلی کلتوري ابزار دی. ځینې غربي بانډونه د هیوي مټال او ډیت مټال له لارې خپل سندرې په کفر، بې دینۍ او د ابلیس په ستاینه سنبالوي. ځوانان د غه غږونو په اورېدو ورو ورو د زړه له سختوالي او عقیدتي انحراف سره مخامخ کیږي او مذهب ته یې احساس بدلیږي.",
+          "textEn": "Music represents a potent tool. Certain genres utilize dark aesthetics to explicitly target religious sentiments, leading youth to reject spiritual concepts."
+        }
+      ]
+    },
+    {
+      "id": "satanism-blackmetal-19",
+      "titlePs": "۱۹. د بلیک میټل د کلیسا سوځونې او ترورونو تاریخ",
+      "titleEn": "19. Black Metal and the History of Church Burnings",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "په ۱۹۹۰ لسیزه کې په ناروې کې د بلیک میټل غړو لخوا د کلیساګانو د سوځولو او شیطاني وژنو تاریخي پېښې څېړي.",
+      "summaryEn": "This section chronicles the historical events of early 1990s in Norway, where extreme metal fans burned ancient churches and committed murders.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "sb19-1",
+          "type": "heading",
+          "textPs": "د ناروې بلیک میټل بلوا (۱۹۹۰)",
+          "textEn": "The Norwegian Black Metal Rebellion"
+        },
+        {
+          "id": "sb19-2",
+          "type": "standard",
+          "textPs": "په ۱۹۹۰ کال کې په ناروې کې د 'Inner Circle' په نوم یوې شیطاني کړۍ چې د بلیک مټال د سندرغاړو څخه جوړه وه، تر پنځوسو زیاتې تاریخي کلیساګانې وسوځولې او د خپلو غړو په منځ کې یې وژنې ترسره کړې. دا پېښې ښيي چې څنګه فکري کږېدل کله چې په شدت سره د شیطان پیروي وکړي، په ټولنه کې فزیکي ورانکارۍ رامنځته کوي.",
+          "textEn": "In the early 1990s, radical black metal bands in Norway formed an 'Inner Circle' that burned over fifty historic wooden churches and conducted ritualistic assassinations."
+        }
+      ]
+    },
+    {
+      "id": "satanism-hollywood-20",
+      "titlePs": "۲۰. د هالیوډ او معاصرو سینمایي فلمونو په ډرامه کې د شیطاني عناصرو ځای پرځای کول",
+      "titleEn": "20. Satanic Themes in Hollywood and Cinema",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "دا برخه د هالیوډ او لویدیځو رسنیو په تولیداتو کې د شیطاني سحر او ابلیس مثبت ښودلو هنر او خطرونه سپړي.",
+      "summaryEn": "This section reveals how Hollywood movies depict satanic magic, witchcraft, and the devil as misunderstood or positive characters.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sh20-1",
+          "type": "heading",
+          "textPs": "په پرده د بدۍ ښکلي ښودل",
+          "textEn": "Glamorizing Evil on Screen"
+        },
+        {
+          "id": "sh20-2",
+          "type": "standard",
+          "textPs": "لوېدیځ سینما او په ځانګړې توګه هالیوډ، ډېری وخت په خپلو وحشتناکو او جادویي فلمونو کې شیطان د یوه داسې پیاوړي، مظلوم او پوه موجود په توګه تمثیلوي چې د انسانانو ازادۍ ملاتړ کوي. دا غولوونکي تصویرونه ځوانانو ته د جادوګرۍ مینه ورکوي او له خدای سره د دښمنۍ لاره روښانه کوي.",
+          "textEn": "Western cinema frequently depicts occult rituals and dark wizardry as heroic, which subconsciously prepares young viewers to accept demonic narratives."
+        }
+      ]
+    },
+    {
+      "id": "satanism-videogames-21",
+      "titlePs": "۲۱. په کمپیوټري لوبو کې د شیطان د احضارولو او ځواک نندارې",
+      "titleEn": "21. Satanic Imagery in Modern Video Games",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "په ویډیو ګیمونو کې د شیطاني نښو او د جادوګرۍ د احضارولو د قواعدو د شاملولو ارزونه.",
+      "summaryEn": "Evaluating the inclusion of demonic invocation mechanics and symbols in popular multiplayer video games.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sv21-1",
+          "type": "heading",
+          "textPs": "مایکروسافټ، انټرکټیو او جادویي سناریوګانې",
+          "textEn": "Interactive Media and Demonic Invocations"
+        },
+        {
+          "id": "sv21-2",
+          "type": "standard",
+          "textPs": "د نن ورځې کمپیوټري لوبې د ځوانانو بله د بوختیا لویه ذریعه ده. په ډېری لوبو کې د پرمختګ لپاره باید د شیطان معبدونه جوړ شي، یا د ابلیس غوندې له ارواوو مرسته وغوښتل شي. دا د لوبو کونکي په لاشعور کې شیطاني جادو عادي کوي او د ایمان خوند ترې اخلي.",
+          "textEn": "Modern video games often incorporate gameplay mechanics that require players to draw pentagrams, make pacts, or use occult seals to advance."
+        }
+      ]
+    },
+    {
+      "id": "satanism-darkweb-22",
+      "titlePs": "۲۲. په خواله رسنیو او انټرنیټ کې د شیطان پرستۍ د پټو شبکو شتون",
+      "titleEn": "22. The Presence of Satanic Networks on Social Media",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "دا فصل د انټرنیټ، ډارک ویب او د فیسبوک، انسټاګرام او ټیک ټاک په څیر خواله رسنیو کې د شیطاني شبکو د تبلیغ پر ضد خبرداری ورکوي.",
+      "summaryEn": "This chapter warns about the dark web portals and social media pages recruiting and spreading satanic aesthetics.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sd22-1",
+          "type": "heading",
+          "textPs": "ډیجیټل کفر: په یوه کلیک سره پټ بلنه",
+          "textEn": "Digital Deviancy: Blind Recruitment via One Click"
+        },
+        {
+          "id": "sd22-2",
+          "type": "standard",
+          "textPs": "د انټرنېټ پراخوالي او د الګوریتمونو جوړښت دا اسانه کړې ده چې د پټو محافلو او ډارک ویب پاڼو څخه مړي او شیطاني دوسیې تر هر چا پورې په وړیا ډول ورسېږي. په ټیک ټاک او انسټاګرام کې هم ځینې کفر ګروپونه په ډېر جذبونکي شکل د تیارو بې دینۍ خپروي.",
+          "textEn": "Adherents of darkness utilize social media platforms and dark-web channels to recruit vulnerable youth, bypassing parental control."
+        }
+      ]
+    },
+    {
+      "id": "satanism-seduction-23",
+      "titlePs": "۲۳. د ازادۍ او شخصي ځواکمنۍ تر نوم لاندې د ځوانانو فکري بې لاري کول",
+      "titleEn": "23. Intellectual Seduction of Youth",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "د ځوان نسل د غولولو لپاره د 'ازادۍ' او 'خودخواهۍ' تر عالي نوم لاندې د شیطاني کفر د افکارو ارزونه.",
+      "summaryEn": "Analyzing how concepts like 'liberation' and 'individualism' are twisted to justify satanic rebellion in youth circles.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "ss23-1",
+          "type": "heading",
+          "textPs": "د نفس بندګي د ازادۍ په لباس کې",
+          "textEn": "Worship of Desires Clad in the Garb of Liberty"
+        },
+        {
+          "id": "ss23-2",
+          "type": "standard",
+          "textPs": "شیطان پرستان خپل زیات تبلیغات داسې عیاروي چې ځوانانو ته د الهي قواعدو پر وړاندې د سرغړونې امر کوي. هغوی د 'خپله ځان ته مذهبي قانون جوړ کړه' د فکر له لارې، معنوي اخلاق د انسان لپاره بندیزونه ګڼي او د نفس غوښتنو ته د پرمختګ او عقلاني رڼا نوم ورکوي.",
+          "textEn": "Promoters of modern deviance target vulnerable minds by telling them that any spiritual guidance is an artificial chain restricting their absolute self-growth."
+        }
+      ]
+    },
+    {
+      "id": "satanism-fashion-24",
+      "titlePs": "۲۴. په معاصر فیشن، تتوګانو او کالیو کې د شیطاني سمبولونو نفوذ",
+      "titleEn": "24. Influence of Satanic Imagery in Fashion and Tattoos",
+      "categoryPs": "نښې او نښانونه",
+      "categoryEn": "Symbols & Signs",
+      "summaryPs": "دا برخه په معاصرو برانډونو او فیشن ډیزاینونو کې د بافومیټ او چپه ستوري په څېر نښانونه څېړي ترڅو د ځوانانو لاشعوري انحراف افشا کړي.",
+      "summaryEn": "This section analyzes the intrusion of occult icons into streetwear, cosmetic accessories, and gothic body tattoos.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sf24-1",
+          "type": "heading",
+          "textPs": "د فیشن برانډونه او د تیارو کلتور خپرول",
+          "textEn": "Streetwear Brands and Dark Aesthetics"
+        },
+        {
+          "id": "sf24-2",
+          "type": "standard",
+          "textPs": "معاصرو لویدیځو برانډونو په کالیو، زیوراتو او بوټونو کې د چپه صلیب، چپه پینټاګرام او ۶۶۶ عدد کارول خورا ډېر کړي دي. ډېری ځوانان په پټه او بې خبرۍ کې یوازې د سټایل او فیشن لپاره دا نښې پر غاړه کوي او یا یې پر بدن تتو کوي، چې پدې کار سره هغوی د دجالي افکارو لاشعوري برخه ګرځي.",
+          "textEn": "Streetwear brands and mainstream artists widely introduce gothic and satanic markers into their collections, transforming occultism into a lifestyle."
+        }
+      ]
+    },
+    {
+      "id": "satanism-atheism-25",
+      "titlePs": "۲۵. د شیطان پرستۍ او الهاد (Atheism) فکري او منطقي نږدېوالی",
+      "titleEn": "25. The Intellectual Link Between Satanism and Atheism",
+      "categoryPs": "ډولونه او نظریات",
+      "categoryEn": "Types & Ideologies",
+      "summaryPs": "دا څپرکی دا په ډاګه کوي چې څنګه د خدای له انکار (الحاد) څخه په مستقیم ډول د شیطان تر نمانځلو او کبر پورې لاره جوړېږي.",
+      "summaryEn": "This chapter exposes the logical and philosophical link between denying God (Atheism) and the birth of Satanic self-worship.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sa25-1",
+          "type": "heading",
+          "textPs": "د خدای ردول د شیطاني نفس د مړښت لومړنی ګام",
+          "textEn": "Rejecting God as the Ultimate Gateway to Devilish Ego"
+        },
+        {
+          "id": "sa25-2",
+          "type": "standard",
+          "textPs": "له هغه ځایه چې دواړه جریانات (الحاد او فلسفي شیطان پرستي) په مادي واکمنۍ تکیه کوي او د وحې او اخرت حقیقتونه ردوي، د هغوی ترمنځ فکري او عقیدوي پولې خورا لنډې دي. الحاد انسان په مادي لحاظ ازاد او خپله ځان د مځکې خدای معرفي کوي، چې دا هماغه د ابلیس لومړنۍ غوښتنه ده.",
+          "textEn": "Because both Atheism and philosophical Satanism deny supernatural Creator, they share identical pillars regarding moral relativity and self-centered laws."
+        }
+      ]
+    },
+    {
+      "id": "satanism-anarchism-26",
+      "titlePs": "۲۶. د روڼ اندۍ د کاذب مدنیت په بڼه کې د اخلاقي انارشیزم ترویج",
+      "titleEn": "26. Propagation of Moral Anarchism",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "د دیموکراتیکو ارزښتونو تر شا د اخلاقي انارشیزم او ټولنیز بغاوت حقیقت روښانه کول په پښتو.",
+      "summaryEn": "Unveiling how social decay and anti-family policies are driven under modern liberal movements.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "sa26-1",
+          "type": "heading",
+          "textPs": "اخلاقي لاره ورکه او د کورنیو د نظام ویجاړول",
+          "textEn": "The Decay of Morals and Family Structures"
+        },
+        {
+          "id": "sa26-2",
+          "type": "standard",
+          "textPs": "شیطان پرستان هڅه کوي چې په انساني ټولنو کې د کورنۍ رول او د اخلاقي نظام اهمیت له منځه یوسي. هغوی په هر ډول غیراخلاقي، همجنس ګرایي، او خپلسرۍ باندې ټینګار کوي ترڅو مذهبي بنسټونه مات او انسانان په مطلق ډول حیواني لذت غوښتونکو بې نظمه ټولنو باندې واړوي.",
+          "textEn": "Satanic groups actively endorse social disintegration, promoting absolute hedonism, gender confusion, and rebellion against holy family bounds."
+        }
+      ]
+    },
+    {
+      "id": "satanism-psychology-27",
+      "titlePs": "۲۷. د شیطاني فلسفې منفي ټولنیز او رواني اغېزې پر ځوانانو",
+      "titleEn": "27. Psychological Impacts of Occult Philosophies",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "دا برخه د جادوګرۍ، بې دینۍ او شیطاني عقایدو منفي رواني اثرات لکه خپګان او انزوا روښانه کوي.",
+      "summaryEn": "This section unmasks the mental and social consequences of occultism, including severe depression and isolation.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sp27-1",
+          "type": "heading",
+          "textPs": "خپګان، روحي ستونزې او ابلیسي خيالونه",
+          "textEn": "Depression, Spiritual Voids, and Demonic Echoes"
+        },
+        {
+          "id": "sp27-2",
+          "type": "standard",
+          "textPs": "هغه کسان چې د شیطان د کلیسا تر عقایدو او مراسمو لاندې راځي، ډېر ژر د شدید رواني خپګان، باطني انزوا او د ځانوژنې له روحې سره مخامخ کیږي. د الهي رحمت څخه بې برخې کېدل د زړه ارامي له منځه وړي او د هغوی ژوند په تیارو جهنمي وحشتونو بدلوي.",
+          "textEn": "Those who walk the path of Satanic pride lose spiritual serenity, leaving them vulnerable to existential dread and self-destructive urges."
+        }
+      ]
+    },
+    {
+      "id": "satanism-imperialism-28",
+      "titlePs": "۲۸. د لویدیځ کلتوري امپریالیزم او پر اسلامي ټولنه یې بریدونه",
+      "titleEn": "28. Western Cultural Imperialism and Islamic Societies",
+      "categoryPs": "اغېزې او خطرونه",
+      "categoryEn": "Impacts & Risks",
+      "summaryPs": "دا څپرکی دا بررسي کوي چې د پردي کلتور او مادي لویدېځ افکار څنګه زموږ پاکې اسلامي ټولنې هدف ګرځوي.",
+      "summaryEn": "This chapter details the globalization of Western subcultures and their direct clash with conservative Islamic value systems.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "si28-1",
+          "type": "heading",
+          "textPs": "د سمارټ فون له لارې د عقیدې غلا",
+          "textEn": "Ideology Theft in the Era of Smartphones"
+        },
+        {
+          "id": "si28-2",
+          "type": "standard",
+          "textPs": "نن ورځ په نړيواله کچه فکري جګړه زموږ تر کورونو رارسېدلې ده. د ډیجیټل امپریالیزم له امله شیطاني افکار، کفر او بې حیایي زموږ تر ځوانانو په ډېر اسانه او پټ ډول رسیږي، چې د دوی په اسلامي هویت او علمي فکر باندې خورا بده او خطرناکه اغیزه اچوي.",
+          "textEn": "Cultural globalization acts as a carrier for Western deviance, injecting toxic concepts directly into the minds of unsuspecting Muslim youth."
+        }
+      ]
+    },
+    {
+      "id": "satanism-whispers-29",
+      "titlePs": "۲۹. د ابلیس (شیطان) د وسوسو او بریدونو بېلابېل ډولونه د قرآن له مخې",
+      "titleEn": "29. Forms of Satanic Whispers According to Quran",
+      "categoryPs": "اسلام او مبارزه",
+      "categoryEn": "Islam & Action",
+      "summaryPs": "دا برخه د قرآن عظیم الشان د حقایقو په رڼا کې د شیطان تر ټولو اساسي وسوسې او د فریب غليظې لارې تشرېح کوي.",
+      "summaryEn": "This section unpacks the methodology of Satan's whispers (Waswasah) as outlined in the Holy Quran.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sw29-1",
+          "type": "heading",
+          "textPs": "تسویف او د باطل حق ښودل",
+          "textEn": "Tasweef and Embellishing Falsehood"
+        },
+        {
+          "id": "sw29-2",
+          "type": "standard",
+          "textPs": "قرآن کریم موږ ته خبرداری ورکوي چې شیطان تل په مستقیمه توګه برید نه کوي، بلکې په تدریجي ډول او د توبې د ځنډولو (تسویف) له لارې د انسان عقیده خوري. هغه بد کارونه په بېلا بېلو بهانو ښایسته او د ازادۍ او پرمختګ تر نامه لاندې انسان ته ښيي.",
+          "textEn": "Satan works incrementally (Khutuwat) by introducing minor compromises, slowly leading a believer toward full moral degradation."
+        },
+        {
+          "id": "sw29-3",
+          "type": "quran",
+          "textAr": "وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ",
+          "textPs": "او شیطان د هغوی بد کارونه ورته ښایسته او ښکلي کړل، نو هغوی یې د (حق له رښتنې) لارې څخه وګرځول.",
+          "reference": "سورة النمل: ۲۴"
+        }
+      ]
+    },
+    {
+      "id": "satanism-allies-30",
+      "titlePs": "۳۰. د شیطان د ملګرو (اولیاء الشیطان) ځانګړتیاوې او صفات",
+      "titleEn": "30. Attributes of the Allies of Satan",
+      "categoryPs": "اسلام او مبارزه",
+      "categoryEn": "Islam & Action",
+      "summaryPs": "په دې څپرکي کې د هغو کسانو نښې څېړل کېږي چې په شعوري یا لاشعوري ډول د ابلیس د عساکرو او دوستانو برخه ګرځېدلې وي.",
+      "summaryEn": "This chapter examines the signs of individuals who align themselves with satanic objectives, spreading confusion.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sa30-1",
+          "type": "heading",
+          "textPs": "د اولیاء الشیطان عواقب او برخلیک",
+          "textEn": "The Destiny of Satan's Foot Soldiers"
+        },
+        {
+          "id": "sa30-2",
+          "type": "standard",
+          "textPs": "هر هغه څوک چې په خپلو افکارو، رسنیو او کلتور کې د کفر تایید کوي، له دیني مقدساتو څخه تمسخر کوي، او د ابلیسي سازمانونو اصول په خپله خاوره کې ترویجوي، په حقیقت کې د اولیاء الشیطان برخه ګرځي. د هغوی برخلیک باطلېدل او په آخرت کې خورا دردناک عذاب دی.",
+          "textEn": "Those who actively campaign against divine revelations, mocking Islamic values, perform the function of Satanic allies on Earth."
+        }
+      ]
+    },
+    {
+      "id": "satanism-monotheism-31",
+      "titlePs": "۳۱. د فکري او عقیدتي کږېدنو په وړاندې د رښتیني توحید رول",
+      "titleEn": "31. The Role of Pure Tawhid against Deviations",
+      "categoryPs": "اسلام او مبارزه",
+      "categoryEn": "Islam & Action",
+      "summaryPs": "دا څپرکی ثابتوي چې څنګه د رښتنې توحید (د الله یووالي) عقیده د زړه د ساتلو او د شیطاني کفر د ماتولو یوازینی دفاعي ډال دی.",
+      "summaryEn": "This chapter proves that Monotheism (Tawhid) constitutes the primary protection layer against intellectual and spiritual darkness.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sm31-1",
+          "type": "heading",
+          "textPs": "توحید: د انسان روحي او عقیدتي پیاوړتیا",
+          "textEn": "Tawhid: Unlocking Human Dignity and Freedom"
+        },
+        {
+          "id": "sm31-2",
+          "type": "standard",
+          "textPs": "کله چې د انسان زړه یوازې د کایناتو د ستر رب (الله تعالی) په عبادت او تسلیمۍ روږدی شي، نو د بل هر شیطاني مادي یا کاذب معبود په وړاندې د مطلقې ازادۍ او عزت خاوند ګرځي. په توحید سمبال زړونه هیڅکله د دجال او د تیارو د پاچاهانو په درواغو پلمو نه غولیږي او د تل لپاره د حق پر سیده لاره ثبات ساتي.",
+          "textEn": "A heart anchored in the absolute oneness of Allah feels no vulnerability when confronting materialistic temptations or occult projections."
+        }
+      ]
+    },
+    {
+      "id": "satanism-repentance-32",
+      "titlePs": "۳۲. د توبې او رجوع حقیقت د ابلیس د عصیان پر وړاندې",
+      "titleEn": "32. Repentance and Returning to Allah",
+      "categoryPs": "اسلام او مبارزه",
+      "categoryEn": "Islam & Action",
+      "summaryPs": "د د توبې د حقیقت سپړل او د زړه د بیرته پاکولو لارې د ابلیس د تلپاتې ناامیدۍ او غرور پر وړاندې په پښتو ژبه.",
+      "summaryEn": "This chapter shows how repentance breaks the cycle of pride and despondency that Satan attempts to foster in sinning hearts.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sr32-1",
+          "type": "heading",
+          "textPs": "توبه: د کږېدلو زړونو نجات او د شیطان زوال",
+          "textEn": "Tawbah: Turning Fractured Souls into Spiritual Fortresses"
+        },
+        {
+          "id": "sr32-2",
+          "type": "standard",
+          "textPs": "د شیطان تر ټولو لوی هدف د انسان ګناهګارول او بیا په رحمت الهي باندې د هغه ناامیده کول دي. خو په اسلام کې توبه او بښنه د ابلیس دا پلان په لومړي ګام کې خاورې کوي. ځوانان چې کله د توبې په وسیله بیرته له الله تعالی سره خپل عهد تازه کوي، د هغوی زړونه پاک او د تیارو اغېزې له منځه ځي.",
+          "textEn": "Satan utilizes sin to induce permanent despair, whispering that redemption is impossible. Pure repentance breaks this trap instantly."
+        }
+      ]
+    },
+    {
+      "id": "satanism-purification-33",
+      "titlePs": "۳۳. په اسلام کې د نفس تزکیه او د روحي او فکري سلامتي ساتنه",
+      "titleEn": "33. Soul Purification and Mental Well-being in Islam",
+      "categoryPs": "اسلام او مبارزه",
+      "categoryEn": "Islam & Action",
+      "summaryPs": "دا برخه د نفس د پاکوالي (تزکیة النفس) لارې چارې او د باطني ارامۍ د ترویج په اړه نبوي تعلیمات سپړي.",
+      "summaryEn": "This section explains core methods of Tazkiyah (purification of soul) as taught by the Prophet to maintain internal sanity and peace.",
+      "readTime": 5,
+      "paragraphs": [
+        {
+          "id": "sp33-1",
+          "type": "heading",
+          "textPs": "ذکر، لمونځ او د نفس کنټرول",
+          "textEn": "Prayer and Constant Remembrance as Spiritual Shields"
+        },
+        {
+          "id": "sp33-2",
+          "type": "standard",
+          "textPs": "د لمانځه په وخت او د الله تعالی په دائمي ذکر سره، انسان د روحي تسکین تر ټولو لوړ پړاو ترلاسه کوي. د نفس د حيواني غوښتنو پیاوړتیا یوازې د تقوی او له حرامو څخه د ځان په ژغورلو سره ممکنه ده، چې دا کار انسان د شیطان د مادي او جنسي بې بندوبارۍ له فتنو څخه پوره ژغوري.",
+          "textEn": "Establishing prayers and the daily remembrance of Allah acts as a dynamic shield keeping hearts safe from spiritual sickness."
+        }
+      ]
+    },
+    {
+      "id": "satanism-responsibilities-34",
+      "titlePs": "۳۴. د کورنیو او د تعلیمي مرکزونو مسؤلیت د شیطاني فتنو په مخنیوي کې",
+      "titleEn": "34. Responsibilities of Families and Educators",
+      "categoryPs": "اسلام او مبارزه",
+      "categoryEn": "Islam & Action",
+      "summaryPs": "د فکري کږېدنو د بریدونو مخنیوي لپاره د والدینو، مدارسو او مکاتبو رغنده مسؤلیتونه په نښه کوي.",
+      "summaryEn": "This chapter addresses the collaborative role parents, schools, and religious academies must play to keep children safe.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "sr34-1",
+          "type": "heading",
+          "textPs": "د اولاد روزنه د عقیدې پر بنسټ",
+          "textEn": "Ideological Guarding of Young Offspring"
+        },
+        {
+          "id": "sr34-2",
+          "type": "standard",
+          "textPs": "والدین باید خپلو ماشومانو ته د ډیجیټل وسایلو په ورکولو کې له پوره دقت څخه کار واخلي او څارنه یې وکړي. تعلیمي مرکزونه هم باید د عقیدې او فکري بیدارۍ ځانګړي پروګرامونه چمتو کړي ترڅو ځوانان وکولی شي د ننیو شیطاني فتنو په اړه پوره معلومات ولري او ځانونه وساتي.",
+          "textEn": "Parents must actively filter content on electronic gadgets, while educational centers must deploy dedicated modules on digital literacy."
+        }
+      ]
+    },
+    {
+      "id": "satanism-awakening-35",
+      "titlePs": "۳۵. د مسلمان ځوان د فکري پاڅون او د عقیدې د ساتنې عملي تګلاره",
+      "titleEn": "35. Practical Roadmap for Muslim Youth Awakening",
+      "categoryPs": "اسلام او مبارزه",
+      "categoryEn": "Islam & Action",
+      "summaryPs": "دا وروستی او مهم فصل د شیطان پرستۍ او د فکري بې لاري د جګړو پر وړاندې د مسلمان ځوان د بریا لپاره لازم پړاوونه په نښه کوي.",
+      "summaryEn": "This final chapter delivers a practical roadmap for the intellectual renaissance and spiritual stability of Muslim youth globally.",
+      "readTime": 6,
+      "paragraphs": [
+        {
+          "id": "sa35-1",
+          "type": "heading",
+          "textPs": "د رڼا کاروان: د باطل ماتولو تګلاره",
+          "textEn": "The Caravan of Light: Dissolving Shadows via Truth"
+        },
+        {
+          "id": "sa35-2",
+          "type": "standard",
+          "textPs": "زموږ بریالیتوب په دې کې دی چې پیاوړی علم ترلاسه کړو، پر اسلامي هویت باندې ویاړ وکړو او په هر ډګر کې د باطل جریانونو حقیقت خپلو هېوادوالو ته رسوا کړو. د رڼا او هدایت دا کاروان به خامخا د ابلیس او د هغه د ټولو غړو کفرجن افکار له منځه وړي او د بشریت لپاره به د هوساینې او تلپاتې بریا رښتنې لاره پرانیزي.",
+          "textEn": "Ultimate victory belongs to those who seek authentic knowledge, cherish their Islamic heritage, and actively spread the truth."
+        }
+      ]
+    }
+  ]
+}

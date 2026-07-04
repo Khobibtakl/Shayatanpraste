@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-amiri: "Amiri", serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+/* Custom scrollbar for beautiful reader experience */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(156, 163, 175, 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(156, 163, 175, 0.5);
+}
+
+/* Islamic pattern background styles */
+.islamic-pattern {
+  background-color: transparent;
+  background-image: radial-gradient(circle at 100% 150%, #10b981 24%, #047857 25%, #047857 28%, #10b981 29%, #10b981 36%, #047857 37%, #047857 40%, transparent 41%),
+                    radial-gradient(circle at 0% 150%, #10b981 24%, #047857 25%, #047857 28%, #10b981 29%, #10b981 36%, #047857 37%, #047857 40%, transparent 41%),
+                    radial-gradient(circle at 50% 100%, #059669 10%, #047857 11%, #047857 14%, #059669 15%, #059669 22%, #047857 23%, #047857 26%, transparent 27%),
+                    radial-gradient(circle at 100% 50%, #10b981 5%, #047857 6%, #047857 9%, #10b981 10%, #10b981 17%, #047857 18%, #047857 21%, transparent 22%),
+                    radial-gradient(circle at 0% 50%, #10b981 5%, #047857 6%, #047857 9%, #10b981 10%, #10b981 17%, #047857 18%, #047857 21%, transparent 22%);
+  background-size: 40px 20px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+/* Safe area padding helper for modern smartphones (Capacitor) */
+.safe-padding-top {
+  padding-top: calc(12px + env(safe-area-inset-top, 20px));
+}
+.safe-padding-bottom {
+  padding-bottom: calc(12px + env(safe-area-inset-bottom, 16px));
+}
+

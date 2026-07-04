@@ -1,0 +1,6 @@
+{
+  "name": "د شیطان پرستۍ پېژندنه - لومړۍ برخه",
+  "description": "د شیطان پرستۍ تاریخ، عقایدو او خطرونو په اړه لومړی مکمل علمي او څېړنیز کلتوري اپلیکېشن په پښتو ژبه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
