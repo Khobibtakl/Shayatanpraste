@@ -894,6 +894,9 @@ export default function App() {
                 className="absolute bottom-[-100px] w-64 text-center space-y-1.5"
               >
                 <p className="text-[13px] font-amiri text-amber-400 font-bold tracking-wide">
+                  ترتيب کوونکی: ډاکټر فريدون احرار
+                </p>
+                <p className="text-[12px] font-amiri text-amber-200/80 font-semibold tracking-wide">
                   اپلکيشن جوړونکی: طالب العلم خبيب تکل
                 </p>
                 <p className="text-[10px] font-sans text-neutral-400 opacity-60">
@@ -1076,9 +1079,14 @@ export default function App() {
                 </h3>
                 <div className={`p-3 rounded-lg border border-dashed text-xs leading-relaxed text-justify opacity-90 ${activeTheme.border}`}>
                   <p>دا یو غني علمي او تحصیلي اثر دی چې د شیطان پرستۍ ډلو، تاریخ، معاصر وضعیت او نښو په اړه د فکري بيدارۍ او معلوماتو د زیاتوالي په موخه په پښتو ژبه وړاندې کېږي.</p>
-                  <p className="mt-2 pt-2 border-t border-dashed border-slate-300/10 font-bold text-amber-500 text-center font-amiri text-[13px]">
-                    اپلکيشن جوړونکی: طالب العلم خبيب تکل
-                  </p>
+                  <div className="mt-2 pt-2 border-t border-dashed border-slate-300/10 text-center font-amiri space-y-1">
+                    <p className="font-bold text-amber-500 text-[13px]">
+                      ترتيب کوونکی: ډاکټر فريدون احرار
+                    </p>
+                    <p className="text-slate-400 text-[12px] font-medium">
+                      اپلکيشن جوړونکی: طالب العلم خبيب تکل
+                    </p>
+                  </div>
                 </div>
               </div>
 
@@ -1820,7 +1828,7 @@ export default function App() {
 
           <p className="font-sans text-xs leading-relaxed">
             © 2026 د شیطان پرستۍ پېژندنه (لومړۍ برخه) — ټول حقونه خوندي دي. <br className="sm:hidden" />
-            <span className="font-bold text-amber-500">اپلکيشن جوړونکی: طالب العلم خبيب تکل</span> — د کامل افلاین مطالعې لپاره.
+            <span className="font-bold text-amber-500">ترتيب کوونکی: ډاکټر فريدون احرار</span> | <span className="font-bold text-amber-500">اپلکيشن جوړونکی: طالب العلم خبيب تکل</span> — د کامل افلاین مطالعې لپاره.
           </p>
         </div>
       </footer>
@@ -1869,24 +1877,41 @@ export default function App() {
               </div>
 
               <div className="space-y-4 text-justify font-sans leading-relaxed text-sm">
-                <div className="flex flex-col items-center gap-3 py-2 text-center">
-                  <div className="w-20 h-20 rounded-full bg-gradient-to-tr from-amber-500 to-red-500 p-1 shadow-lg flex items-center justify-center">
-                    <div className="w-full h-full rounded-full bg-neutral-900 flex items-center justify-center text-white border border-white/10">
-                      <span className="font-amiri text-2xl font-bold text-amber-500">خبيب</span>
+                <div className="grid grid-cols-2 gap-4 py-2 text-center border-b border-slate-200/10 pb-4">
+                  {/* Compiler Info */}
+                  <div className="flex flex-col items-center gap-2">
+                    <div className="w-16 h-16 rounded-full bg-gradient-to-tr from-amber-500 to-amber-300 p-0.5 shadow-md flex items-center justify-center">
+                      <div className="w-full h-full rounded-full bg-neutral-900 flex items-center justify-center text-white border border-white/5">
+                        <span className="font-amiri text-lg font-bold text-amber-400">فريدون</span>
+                      </div>
+                    </div>
+                    <div>
+                      <h4 className="font-amiri text-sm font-bold">ډاکټر فريدون احرار</h4>
+                      <p className="text-[10px] text-slate-400">د علمي اثر کتاب ترتیب کوونکی</p>
                     </div>
                   </div>
-                  <div>
-                    <h4 className="font-amiri text-lg font-bold">طالب العلم خبيب تکل</h4>
-                    <p className="text-xs text-slate-400">د شیطان پرستۍ پېژندنه اثر اپلیکیشن جوړونکی</p>
+
+                  {/* Developer Info */}
+                  <div className="flex flex-col items-center gap-2 border-r border-slate-200/10">
+                    <div className="w-16 h-16 rounded-full bg-gradient-to-tr from-amber-500 to-red-500 p-0.5 shadow-md flex items-center justify-center">
+                      <div className="w-full h-full rounded-full bg-neutral-900 flex items-center justify-center text-white border border-white/5">
+                        <span className="font-amiri text-lg font-bold text-amber-500">خبيب</span>
+                      </div>
+                    </div>
+                    <div>
+                      <h4 className="font-amiri text-sm font-bold">طالب العلم خبيب تکل</h4>
+                      <p className="text-[10px] text-slate-400">اپلیکیشن جوړونکی او خپروونکی</p>
+                    </div>
                   </div>
                 </div>
 
                 <div className="p-4 rounded-2xl bg-amber-500/5 border border-amber-500/10 space-y-3">
                   <p className="font-medium text-slate-800 dark:text-slate-100 font-amiri text-base leading-relaxed text-right">
-                    الحمد لله رب العالمين والصلوة والسلام على رسوله الکريم. د دې علمي اپلیکیشن د جوړولو هدف زموږ د مسلمانه ټولنې، په ځانګړې توګه د ځوان نسل فکري بيداري، او د هغوی د عقیدوي او فکري انحرافاتو څخه ژغورل دي. په دې پروګرام کې د شیطان پرستۍ د تاریخ، د هغې د خطرونو او نښو په اړه علمي او څېړنیز معلومات په اسانه او افلاین ډول وړاندې شوي دي. هیله ده د دې علمي خدمت په قبلېدو کې راسره په دعاګانو کې برخه واخلئ.
+                    الحمد لله رب العالمين والصلوة والسلام على رسوله الکريم. د دې علمي اپلیکیشن د جوړولو او خپرولو هدف زموږ د مسلمانه ټولنې، په ځانګړې توګه د ځوان نسل فکري بيداري، او د هغوی د عقیدوي او فکري انحرافاتو څخه ژغورل دي. په دې پروګرام کې د ډاکټر فریدون احرار لخوا د شیطان پرستۍ د تاریخ، ډولونو، خطرونو او نښو په اړه علمي، دقیق او څېړنیز معلومات په پوره امانتدارۍ راټول او په اسانه او افلاین ډول وړاندې شوي دي. هیله ده د دې علمي خدمت په قبلېدو کې راسره په دعاګانو کې برخه واخلئ.
                   </p>
-                  <p className="font-bold text-left font-amiri text-amber-500 pt-1.5 text-sm border-t border-amber-500/10">
-                    — ستاسو ورور او د علم یو عاجز غوښتونکی: طالب العلم خبيب تکل
+                  <p className="font-bold text-left font-amiri text-amber-500 pt-1.5 text-sm border-t border-amber-500/10 flex flex-col items-end gap-1">
+                    <span>— د کتاب ترتیب کوونکی: ډاکټر فريدون احرار</span>
+                    <span>— د اپلیکیشن جوړونکی: طالب العلم خبيب تکل</span>
                   </p>
                 </div>
 
